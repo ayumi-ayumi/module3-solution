@@ -14,7 +14,6 @@ body {
   padding-left: 30px;
   letter-spacing: .8px;
 }
-
 .navbar-collapse {
   padding: 0;
 }
@@ -44,27 +43,23 @@ h1 {
   margin-bottom: 40px;
   letter-spacing: 1px;
 }
+h3 {
+  letter-spacing: 1.2px;
+}
 .menu-section {
   background-color: rgb(235, 228, 228);
   border-radius: 3px;
   overflow: hidden;
   position: relative;
-  padding: 12px;
+  padding: 10px 10px 12px;
   width: 100%;
   margin-bottom: 30px;
-}
-
-h3 {
-  letter-spacing: 1.2px;
 }
 .menu-section p {
   width: 90%;
   margin: 0 auto;
   line-height: 1.4;
 } 
-
-
-
 .text-right {
   text-decoration: underline;
   padding-top: 15px;
